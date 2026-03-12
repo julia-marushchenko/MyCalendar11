@@ -1,2 +1,2 @@
 # MyCalendar11
-Java program to use abstract Calendar objects.
+Java program to use abstract Calendar object.
